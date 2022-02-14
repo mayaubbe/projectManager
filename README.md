@@ -1,25 +1,28 @@
-###################
+*******************
 Project task manager
-###################o
+*******************
 
-Project listing 
-Task listing
+Project listing. 
+Task listing.
 Time Log entry option.
-Project hour Report
+Project hour Report.
 
 
-###################
+*******************
 Project Setup steps
-###################o
+*******************
+
 
 1.application/config/database.php set the db credentials
 2. Mysql db file is in application/Database/db.sql
 3.Set the base url, by default it is http://localhost/projectManager . Fil path is application/config/config.php
 4.PHP version 5.6 or newer is recommended.
 
-###################
+*******************
+
 What is CodeIgniter
-###################
+*******************
+
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
